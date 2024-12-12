@@ -7,7 +7,7 @@ I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/yuriko-lpz
+My GitHub page is [yuriko.lpz](http://github.com/yuriko-lpz)
 
 ### CPSC 120
 * Lab 2
