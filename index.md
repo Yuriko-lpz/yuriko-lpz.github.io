@@ -3,7 +3,7 @@
 
 This is my home page! :D
 
-I am a computer science major at [Cal State Fullerton] (http://www.fullerton.edu/)
+I am a computer science major at [Cal State Fullerton](http://www.fullerton.edu/)
 
 ## Computer Science Projects
 
